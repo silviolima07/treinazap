@@ -19,6 +19,3 @@ jobs:
         run: npm install && npm run build
       - name: LISTAR ARQUIVOS
         run: ls -la build/*
-        
-        
-        
